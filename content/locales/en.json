@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "title": "Ruslan Reshetniak — IT Consulting, Development & Quality",
+    "description": "Independent IT consultant with experience in software development, quality assurance, test automation and SAP technologies. Work together in English, German or Russian."
+  },
+  "ui": {
+    "skip": "Skip to content",
+    "menu": "Open menu",
+    "close": "Close menu",
+    "language": "Choose language",
+    "back": "Back to home",
+    "top": "Back to top",
+    "contact": "Discuss your project",
+    "learn": "Explore my expertise",
+    "copy": "Copy email",
+    "copied": "Email copied",
+    "copyFailed": "Please select and copy the email address.",
+    "mail": "Write an email",
+    "navigation": "Main navigation",
+    "footerNavigation": "More links"
+  },
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "expertise": "Expertise",
+    "experience": "Experience",
+    "contact": "Contact",
+    "work": "Projects"
+  },
+  "hero": {
+    "eyebrow": "Independent IT Consultant & Freelancer",
+    "line1": "Understand the tech.",
+    "line2": "Build in quality.",
+    "description": "I bring software development, quality assurance and automation together — to build solutions that fit your processes and work in practice.",
+    "location": "Germany · Remote",
+    "languages": "EN / DE / RU",
+    "visualLabel": "Three perspectives. One standard.",
+    "visualWords": [
+      "Understand",
+      "Develop",
+      "Validate"
+    ],
+    "visualFoot": "Considered. From the start.",
+    "scroll": "Discover my approach"
+  },
+  "intro": {
+    "label": "My focus",
+    "text": "Connecting technology, processes and quality.",
+    "detail": "From understanding the requirement to delivering a clear, practical solution."
+  },
+  "services": {
+    "eyebrow": "01 / Services",
+    "title": "Where I can help.",
+    "description": "Focused support for your challenge, with technical depth and an understanding of the bigger picture.",
+    "items": {
+      "consulting": {
+        "title": "IT consulting",
+        "description": "Clarify requirements, understand technical dependencies and agree on realistic next steps together.",
+        "detail": "Requirements · Analysis · Documentation"
+      },
+      "quality": {
+        "title": "Software quality & testing",
+        "description": "Systematically test features, interfaces and business processes. Investigate issues and make results clear.",
+        "detail": "API · Integration · Regression"
+      },
+      "automation": {
+        "title": "Test automation",
+        "description": "Build reusable tests and integrate them into existing workflows, with results your team can follow.",
+        "detail": "Playwright · E2E · CI/CD"
+      },
+      "development": {
+        "title": "Development & integration",
+        "description": "Develop web interfaces and connect services. Extend existing applications with a clear purpose.",
+        "detail": "TypeScript · React · OData"
+      },
+      "ai": {
+        "title": "AI-assisted workflows",
+        "description": "Apply AI tools in development and testing while reviewing their output and retaining human oversight.",
+        "detail": "Development · Testing · Automation"
+      },
+      "sap": {
+        "title": "SAP applications",
+        "description": "Develop Fiori/UI5 applications, integrate OData services and investigate technical issues across frontend and backend.",
+        "detail": "SAP Fiori · UI5 · SAP Gateway"
+      }
+    }
+  },
+  "about": {
+    "eyebrow": "02 / About",
+    "title": "The technical detail.\nThe bigger picture.",
+    "lead": "I'm Ruslan. I develop, test and ask questions until the implementation fits the requirement.",
+    "paragraphs": [
+      "I have worked with software quality and SAP business processes since 2017. My path has taken me from test automation and process analysis to Fiori/UI5 development and technical integration.",
+      "Today I bring these perspectives together: understanding how an application is used, where reliability matters and how it can evolve in a useful way."
+    ],
+    "signature": "Ruslan Reshetniak",
+    "caption": "IT consultant · Development & quality",
+    "principles": [
+      {
+        "title": "Communicate clearly",
+        "text": "Make assumptions, open questions and progress transparent."
+      },
+      {
+        "title": "Keep it practical",
+        "text": "Choose a solution that fits the task and stays understandable."
+      },
+      {
+        "title": "Build in quality",
+        "text": "Consider testability and maintainability from the beginning."
+      }
+    ]
+  },
+  "expertise": {
+    "eyebrow": "03 / Expertise",
+    "title": "The right tool.\nFor the right task.",
+    "description": "Technology is a means to an end. What matters is how it supports your application and the way your team works.",
+    "groups": {
+      "engineering": "Software development",
+      "quality": "Testing & quality",
+      "delivery": "Automation & CI/CD",
+      "enterprise": "SAP & enterprise",
+      "ai": "AI-assisted development",
+      "tools": "Tools & collaboration"
+    },
+    "note": "¹ SAP BTP/CAP: hands-on development in my own Request Hub portfolio project."
+  },
+  "experience": {
+    "eyebrow": "04 / Experience",
+    "title": "Built on experience.\nOpen to what's next.",
+    "description": "A brief view of my professional background, without confidential client details.",
+    "items": {
+      "engineering": {
+        "title": "Development & quality engineering",
+        "context": "IT services · Germany",
+        "text": "Fiori/UI5 development, OData integration and automated testing. Project work across telecommunications, energy and the public sector."
+      },
+      "consulting": {
+        "title": "SAP consulting & test coordination",
+        "context": "Telecommunications · Germany",
+        "text": "Integration and regression testing for Order-to-Cash and B2B processes. Technical issue analysis with development teams and business stakeholders."
+      },
+      "foundation": {
+        "title": "SAP processes & test automation",
+        "context": "Telecommunications · International",
+        "text": "Developing and maintaining automated tests, managing test data and analysing complex SAP business processes."
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "Working together",
+    "title": "A clear process.\nA personal conversation.",
+    "steps": [
+      {
+        "title": "Understand",
+        "text": "We clarify your starting point, goals and constraints."
+      },
+      {
+        "title": "Agree",
+        "text": "We define scope, priorities and the next steps."
+      },
+      {
+        "title": "Deliver",
+        "text": "I work systematically and keep progress visible."
+      },
+      {
+        "title": "Hand over",
+        "text": "Results are reviewed and documented for your team."
+      }
+    ]
+  },
+  "work": {
+    "eyebrow": "Selected work",
+    "title": "A look at the work.",
+    "task": "Challenge",
+    "role": "My role",
+    "result": "Outcome",
+    "open": "View project",
+    "items": {}
+  },
+  "contact": {
+    "eyebrow": "05 / Contact",
+    "title": "What are you\nworking on?",
+    "description": "Tell me about your challenge. We can explore whether and how I can help.",
+    "note": "The button opens your email application. No message is sent through this website.",
+    "location": "Germany · Remote collaboration",
+    "languages": "English, German or Russian",
+    "subject": "Project enquiry",
+    "prompt": "A few lines about your project, timeline and current situation are enough to start the conversation."
+  },
+  "footer": {
+    "description": "Independent IT consulting.\nDevelopment with quality in mind.",
+    "imprint": "Legal notice",
+    "privacy": "Privacy",
+    "copyright": "All rights reserved."
+  },
+  "legal": {
+    "draft": "Draft · Details still need to be completed and reviewed",
+    "draftText": "This page is a prepared structure, not complete legal information. The marked details must be completed and reviewed before public use.",
+    "placeholder": "[To be completed and reviewed]",
+    "imprintTitle": "Legal notice",
+    "privacyTitle": "Privacy information",
+    "owner": "Website operator",
+    "address": "Service address",
+    "email": "Contact",
+    "registration": "Registration and professional details, where applicable",
+    "vat": "VAT identification number, if applicable",
+    "controller": "Controller and privacy contact",
+    "hosting": "Hosting and technical access data",
+    "hostingText": "[Add and review the hosting provider, data processing, recipients, legal bases and retention periods.]",
+    "contactHeading": "Email contact",
+    "contactText": "Contact links open your email application. The website does not collect contact form submissions. [Add processing of incoming emails, legal basis and retention details.]",
+    "storageHeading": "Language preference and external content",
+    "storageText": "The application code stores the selected language locally in your browser. It does not embed analytics, advertising scripts, external fonts or third-party widgets. Actual processing by hosting, access control and infrastructure providers must be described separately.",
+    "rightsHeading": "Rights and further information",
+    "rightsText": "[Add and review applicable data subject rights, complaint procedures, contact details, recipients and any international transfers.]"
+  }
+}

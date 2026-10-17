@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "title": "Ruslan Reshetniak — IT-Beratung, Entwicklung & Qualität",
+    "description": "Unabhängiger IT-Berater mit Erfahrung in Softwareentwicklung, Qualitätssicherung, Testautomatisierung und SAP-Technologien. Zusammenarbeit auf Deutsch, Englisch und Russisch."
+  },
+  "ui": {
+    "skip": "Zum Inhalt",
+    "menu": "Menü öffnen",
+    "close": "Menü schließen",
+    "language": "Sprache auswählen",
+    "back": "Zur Startseite",
+    "top": "Nach oben",
+    "contact": "Projekt besprechen",
+    "learn": "Kompetenzen entdecken",
+    "copy": "E-Mail kopieren",
+    "copied": "E-Mail kopiert",
+    "copyFailed": "Bitte markieren und kopieren Sie die E-Mail-Adresse.",
+    "mail": "E-Mail schreiben",
+    "navigation": "Hauptnavigation",
+    "footerNavigation": "Weitere Links"
+  },
+  "nav": {
+    "services": "Leistungen",
+    "about": "Über mich",
+    "expertise": "Kompetenzen",
+    "experience": "Erfahrung",
+    "contact": "Kontakt",
+    "work": "Projekte"
+  },
+  "hero": {
+    "eyebrow": "Independent IT Consultant & Freelancer",
+    "line1": "Technik verstehen.",
+    "line2": "Qualität schaffen.",
+    "description": "Ich verbinde Softwareentwicklung, Qualitätssicherung und Automatisierung — für Lösungen, die zu Ihren Prozessen passen und im Alltag funktionieren.",
+    "location": "Deutschland · Remote",
+    "languages": "EN / DE / RU",
+    "visualLabel": "Drei Perspektiven. Ein Anspruch.",
+    "visualWords": [
+      "Verstehen",
+      "Entwickeln",
+      "Absichern"
+    ],
+    "visualFoot": "Durchdacht. Von Anfang an.",
+    "scroll": "Entdecken Sie meinen Ansatz"
+  },
+  "intro": {
+    "label": "Mein Fokus",
+    "text": "Die Verbindung von Technologie, Prozessen und Qualität.",
+    "detail": "Vom Verständnis der Anforderung bis zur nachvollziehbaren Umsetzung."
+  },
+  "services": {
+    "eyebrow": "01 / Leistungen",
+    "title": "Wo ich Sie unterstützen kann.",
+    "description": "Gezielte Unterstützung für Ihre Aufgabe — mit technischem Verständnis und einem Blick für das Ganze.",
+    "items": {
+      "consulting": {
+        "title": "IT-Beratung",
+        "description": "Anforderungen klären, technische Zusammenhänge einordnen und realistische nächste Schritte gemeinsam festlegen.",
+        "detail": "Anforderungen · Analyse · Dokumentation"
+      },
+      "quality": {
+        "title": "Softwarequalität & Testing",
+        "description": "Funktionen, Schnittstellen und Geschäftsprozesse systematisch prüfen. Fehler eingrenzen und Ergebnisse verständlich machen.",
+        "detail": "API · Integration · Regression"
+      },
+      "automation": {
+        "title": "Testautomatisierung",
+        "description": "Wiederverwendbare Tests entwickeln und in bestehende Abläufe integrieren — mit nachvollziehbaren Ergebnissen.",
+        "detail": "Playwright · E2E · CI/CD"
+      },
+      "development": {
+        "title": "Entwicklung & Integration",
+        "description": "Weboberflächen und technische Schnittstellen umsetzen. Bestehende Anwendungen gezielt weiterentwickeln.",
+        "detail": "TypeScript · React · OData"
+      },
+      "ai": {
+        "title": "KI-gestützte Arbeitsabläufe",
+        "description": "KI-Werkzeuge im Entwicklungs- und Testprozess einsetzen. Ergebnisse prüfen und die fachliche Kontrolle behalten.",
+        "detail": "Entwicklung · Testing · Automatisierung"
+      },
+      "sap": {
+        "title": "SAP-Anwendungen",
+        "description": "Fiori/UI5-Anwendungen entwickeln, OData-Services anbinden und technische Probleme im Zusammenspiel mit dem Backend analysieren.",
+        "detail": "SAP Fiori · UI5 · SAP Gateway"
+      }
+    }
+  },
+  "about": {
+    "eyebrow": "02 / Über mich",
+    "title": "Technisches Detail.\nDer ganze Zusammenhang.",
+    "lead": "Ich bin Ruslan. Ich entwickle, teste und hinterfrage, bis Anforderungen und Umsetzung zusammenpassen.",
+    "paragraphs": [
+      "Seit 2017 arbeite ich an Softwarequalität und SAP-bezogenen Geschäftsprozessen. Mein Weg führte mich von Testautomatisierung und Prozessanalyse zur Entwicklung von Fiori/UI5-Anwendungen und technischen Integrationen.",
+      "Heute bringe ich diese Perspektiven zusammen: Ich möchte verstehen, wie eine Anwendung genutzt wird, wo sie zuverlässig sein muss und wie sie sich sinnvoll weiterentwickeln lässt."
+    ],
+    "signature": "Ruslan Reshetniak",
+    "caption": "IT-Berater · Softwareentwicklung & Qualität",
+    "principles": [
+      {
+        "title": "Klar kommunizieren",
+        "text": "Annahmen, offene Fragen und Fortschritt transparent machen."
+      },
+      {
+        "title": "Pragmatisch umsetzen",
+        "text": "Die Lösung an der Aufgabe ausrichten und verständlich halten."
+      },
+      {
+        "title": "Qualität mitdenken",
+        "text": "Testbarkeit und Wartbarkeit von Anfang an berücksichtigen."
+      }
+    ]
+  },
+  "expertise": {
+    "eyebrow": "03 / Kompetenzen",
+    "title": "Das passende Werkzeug.\nFür die richtige Aufgabe.",
+    "description": "Technologien sind Mittel zum Zweck. Entscheidend ist, wie sie Ihre Anwendung und Ihre Arbeitsabläufe unterstützen.",
+    "groups": {
+      "engineering": "Softwareentwicklung",
+      "quality": "Testing & Qualität",
+      "delivery": "Automatisierung & CI/CD",
+      "enterprise": "SAP & Enterprise",
+      "ai": "KI-gestützte Entwicklung",
+      "tools": "Tools & Zusammenarbeit"
+    },
+    "note": "¹ SAP BTP/CAP: praktische Vertiefung im eigenen Request-Hub-Portfolio-Projekt."
+  },
+  "experience": {
+    "eyebrow": "04 / Erfahrung",
+    "title": "Auf Erfahrung aufbauen.\nOffen weiterdenken.",
+    "description": "Ein Einblick in meinen beruflichen Weg — ohne vertrauliche Kundendetails.",
+    "items": {
+      "engineering": {
+        "title": "Entwicklung & Quality Engineering",
+        "context": "IT-Dienstleistung · Deutschland",
+        "text": "Fiori/UI5-Entwicklung, OData-Integration und automatisierte Tests. Projektarbeit im Umfeld von Telekommunikation, Energie und öffentlichem Sektor."
+      },
+      "consulting": {
+        "title": "SAP-Beratung & Testkoordination",
+        "context": "Telekommunikation · Deutschland",
+        "text": "Integrations- und Regressionstests für Order-to-Cash- und B2B-Prozesse. Technische Fehleranalyse und Abstimmung mit Entwicklung und Fachbereichen."
+      },
+      "foundation": {
+        "title": "SAP-Prozesse & Testautomatisierung",
+        "context": "Telekommunikation · International",
+        "text": "Aufbau und Pflege automatisierter Tests, Testdatenmanagement und Analyse komplexer SAP-Geschäftsprozesse."
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "Zusammenarbeit",
+    "title": "Klar im Vorgehen.\nPersönlich im Austausch.",
+    "steps": [
+      {
+        "title": "Verstehen",
+        "text": "Wir klären Ausgangslage, Ziel und Rahmenbedingungen."
+      },
+      {
+        "title": "Abstimmen",
+        "text": "Wir vereinbaren Umfang, Prioritäten und nächste Schritte."
+      },
+      {
+        "title": "Umsetzen",
+        "text": "Ich arbeite strukturiert und mache Fortschritte sichtbar."
+      },
+      {
+        "title": "Übergeben",
+        "text": "Ergebnisse werden geprüft und nachvollziehbar dokumentiert."
+      }
+    ]
+  },
+  "work": {
+    "eyebrow": "Ausgewählte Projekte",
+    "title": "Einblicke in die Praxis.",
+    "task": "Aufgabe",
+    "role": "Meine Rolle",
+    "result": "Ergebnis",
+    "open": "Projekt ansehen",
+    "items": {}
+  },
+  "contact": {
+    "eyebrow": "05 / Kontakt",
+    "title": "Was haben\nSie vor?",
+    "description": "Erzählen Sie mir von Ihrer Aufgabe. Gemeinsam finden wir heraus, ob und wie ich Sie unterstützen kann.",
+    "note": "Die Schaltfläche öffnet Ihr E-Mail-Programm. Über diese Website wird keine Nachricht versendet.",
+    "location": "Deutschland · Remote-Zusammenarbeit",
+    "languages": "Deutsch, Englisch oder Russisch",
+    "subject": "Anfrage zur Zusammenarbeit",
+    "prompt": "Ein paar Sätze zu Ihrem Vorhaben, dem zeitlichen Rahmen und Ihrer aktuellen Situation reichen für den ersten Austausch."
+  },
+  "footer": {
+    "description": "Unabhängige IT-Beratung.\nEntwicklung mit Blick auf Qualität.",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "copyright": "Alle Rechte vorbehalten."
+  },
+  "legal": {
+    "draft": "Entwurf · Angaben noch zu ergänzen und zu prüfen",
+    "draftText": "Diese Seite ist eine vorbereitete Struktur und noch keine vollständige rechtliche Information. Die gekennzeichneten Angaben müssen vor einer öffentlichen Nutzung ergänzt und geprüft werden.",
+    "placeholder": "[Noch zu ergänzen und zu prüfen]",
+    "imprintTitle": "Impressum",
+    "privacyTitle": "Datenschutzerklärung",
+    "owner": "Anbieter",
+    "address": "Ladungsfähige Anschrift",
+    "email": "Kontakt",
+    "registration": "Register- und Berufsangaben, soweit zutreffend",
+    "vat": "Umsatzsteuer-Identifikationsnummer, soweit vorhanden",
+    "controller": "Verantwortlicher und Datenschutzkontakt",
+    "hosting": "Hosting und technische Zugriffsdaten",
+    "hostingText": "[Hosting-Anbieter, Datenverarbeitung, Empfänger, Rechtsgrundlagen und Speicherfristen ergänzen und prüfen.]",
+    "contactHeading": "Kontakt per E-Mail",
+    "contactText": "Kontaktlinks öffnen Ihr E-Mail-Programm. Die Website selbst nimmt keine Formulardaten entgegen. [Verarbeitung eingehender E-Mails, Rechtsgrundlage und Aufbewahrung ergänzen.]",
+    "storageHeading": "Sprachwahl und externe Inhalte",
+    "storageText": "Der eigene Anwendungscode speichert die gewählte Sprache lokal im Browser. Er bindet keine Analyse- oder Werbeskripte, externen Schriftarten oder Drittanbieter-Embeds ein. Für Hosting, Zugangsschutz und Infrastruktur müssen die tatsächlichen Datenverarbeitungen gesondert ergänzt werden.",
+    "rightsHeading": "Rechte und weitere Informationen",
+    "rightsText": "[Die jeweils anwendbaren Betroffenenrechte, Beschwerdemöglichkeit, Kontaktwege sowie Angaben zu Empfängern und möglichen Drittlandübermittlungen ergänzen und prüfen.]"
+  }
+}
