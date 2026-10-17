@@ -32,7 +32,7 @@
     "line1": "Technik verstehen.",
     "line2": "Qualität schaffen.",
     "description": "Ich verbinde Softwareentwicklung, Qualitätssicherung und Automatisierung — für Lösungen, die zu Ihren Prozessen passen und im Alltag funktionieren.",
-    "location": "Deutschland · Remote",
+    "location": "Remote",
     "languages": "EN / DE / RU",
     "visualLabel": "Drei Perspektiven. Ein Anspruch.",
     "visualWords": [
@@ -131,12 +131,12 @@
     "items": {
       "engineering": {
         "title": "Entwicklung & Quality Engineering",
-        "context": "IT-Dienstleistung · Deutschland",
+        "context": "IT-Dienstleistung",
         "text": "Fiori/UI5-Entwicklung, OData-Integration und automatisierte Tests. Projektarbeit im Umfeld von Telekommunikation, Energie und öffentlichem Sektor."
       },
       "consulting": {
         "title": "SAP-Beratung & Testkoordination",
-        "context": "Telekommunikation · Deutschland",
+        "context": "Telekommunikation",
         "text": "Integrations- und Regressionstests für Order-to-Cash- und B2B-Prozesse. Technische Fehleranalyse und Abstimmung mit Entwicklung und Fachbereichen."
       },
       "foundation": {
@@ -182,7 +182,7 @@
     "title": "Was haben\nSie vor?",
     "description": "Erzählen Sie mir von Ihrer Aufgabe. Gemeinsam finden wir heraus, ob und wie ich Sie unterstützen kann.",
     "note": "Die Schaltfläche öffnet Ihr E-Mail-Programm. Über diese Website wird keine Nachricht versendet.",
-    "location": "Deutschland · Remote-Zusammenarbeit",
+    "location": "Deutschland",
     "languages": "Deutsch, Englisch oder Russisch",
     "subject": "Anfrage zur Zusammenarbeit",
     "prompt": "Ein paar Sätze zu Ihrem Vorhaben, dem zeitlichen Rahmen und Ihrer aktuellen Situation reichen für den ersten Austausch."
