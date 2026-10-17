@@ -32,7 +32,7 @@
     "line1": "Understand the tech.",
     "line2": "Build in quality.",
     "description": "I bring software development, quality assurance and automation together — to build solutions that fit your processes and work in practice.",
-    "location": "Germany · Remote",
+    "location": "Remote",
     "languages": "EN / DE / RU",
     "visualLabel": "Three perspectives. One standard.",
     "visualWords": [
@@ -131,12 +131,12 @@
     "items": {
       "engineering": {
         "title": "Development & quality engineering",
-        "context": "IT services · Germany",
+        "context": "IT services",
         "text": "Fiori/UI5 development, OData integration and automated testing. Project work across telecommunications, energy and the public sector."
       },
       "consulting": {
         "title": "SAP consulting & test coordination",
-        "context": "Telecommunications · Germany",
+        "context": "Telecommunications",
         "text": "Integration and regression testing for Order-to-Cash and B2B processes. Technical issue analysis with development teams and business stakeholders."
       },
       "foundation": {
@@ -182,7 +182,7 @@
     "title": "What are you\nworking on?",
     "description": "Tell me about your challenge. We can explore whether and how I can help.",
     "note": "The button opens your email application. No message is sent through this website.",
-    "location": "Germany · Remote collaboration",
+    "location": "Remote collaboration",
     "languages": "English, German or Russian",
     "subject": "Project enquiry",
     "prompt": "A few lines about your project, timeline and current situation are enough to start the conversation."
